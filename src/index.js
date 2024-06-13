@@ -1,0 +1,1 @@
+console.log('Its working fine with webpack, yahoo');
